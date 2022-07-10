@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "348708516832",
+    "project_id": "tr-ump",
+    "storage_bucket": "tr-ump.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348708516832:android:9aac1403c86fd2c6747185",
+        "android_client_info": {
+          "package_name": "com.todd.trump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348708516832-n135gc37mk02onlrmesujr179gebu2cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.todd.trump",
+            "certificate_hash": "13bd0b1e936675ea63aadb947ac558f17059239c"
+          }
+        },
+        {
+          "client_id": "348708516832-r0te431k9pntiric3alio9cmgvj4l1k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAluJ0N4cRKOOtD1D0b7TygJJBensFvf_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348708516832-r0te431k9pntiric3alio9cmgvj4l1k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
